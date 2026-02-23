@@ -1,0 +1,10 @@
+{
+  "name": "Email Monitor",
+  "version": "0.0.1",
+  "description": "Monitors an email mailbox (IMAP/SMTP) and stores incoming and outgoing emails into the Cat's declarative vector memory.",
+  "author_name": "Matteo Cacciola",
+  "author_url": "https://github.com/matteocacciola",
+  "plugin_url": "https://github.com/matteocacciola/ccat_email_monitoring",
+  "tags": "email, imap, memory, monitoring",
+  "dependencies": ["white_rabbit"]
+}
