@@ -148,4 +148,4 @@ Plugin Repository: [ccat_email_monitoring](https://github.com/matteocacciola/cca
 
 ## License
 
-This plugin is provided as-is for use with the Grinning Cat AI framework.
+This plugin is provided as-is for use with the Grinning Cat framework.
