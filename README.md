@@ -1,4 +1,4 @@
-# 📬 Email Monitor Plugin — Cheshire Cat AI
+# 📬 Email Monitor Plugin — Grinning Cat AI
 
 Monitors an email mailbox via IMAP and automatically stores every **incoming** (Inbox) and **outgoing** (Sent) email into the Cat's **declarative vector memory**.
 
@@ -134,7 +134,7 @@ The plugin uses the **White Rabbit** core plugin to schedule periodic mailbox ch
 
 ## Compatibility
 
-Tested with **matteocacciola/cheshirecat-core** (production-ready fork).
+Tested with **matteocacciola/grinning-cat-core** (production-ready fork).
 
 ---
 
@@ -148,4 +148,4 @@ Plugin Repository: [ccat_email_monitoring](https://github.com/matteocacciola/cca
 
 ## License
 
-This plugin is provided as-is for use with the Cheshire Cat AI framework.
+This plugin is provided as-is for use with the Grinning Cat AI framework.
